@@ -10,7 +10,6 @@ class InfochimpsGeoGrailsPlugin {
         "grails-app/views/error.gsp"
     ]
 
-    // TODO Fill in these fields
     def title = "Grails Infochimps Geo Plugin Plugin" // Headline display name of the plugin
     def author = "Igor Artamonov"
     def authorEmail = "igor@artamonov.ru"
