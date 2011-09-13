@@ -1,4 +1,4 @@
-class GrailsInfochimpsGeoPluginGrailsPlugin {
+class InfochimpsGeoGrailsPlugin {
     // the plugin version
     def version = "0.1"
     // the version or versions of Grails the plugin is designed for
@@ -19,7 +19,7 @@ Provides service for Infochimps Geo API
 '''
 
     // URL to the plugin's documentation
-    def documentation = "http://grails.org/plugin/grails-infochimps-geo-plugin"
+    def documentation = "http://grails.org/plugin/infochimps-geo"
 
     // Extra (optional) plugin metadata
 
