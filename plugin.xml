@@ -1,0 +1,12 @@
+<plugin name='infochimps-geo' version='0.1' grailsVersion='2.0 &gt; *'>
+  <author>Igor Artamonov</author>
+  <authorEmail>igor@artamonov.ru</authorEmail>
+  <title>Grails Infochimps Geo Plugin Plugin</title>
+  <description>Provides service for Infochimps Geo API
+</description>
+  <documentation>http://grails.org/plugin/infochimps-geo</documentation>
+  <type>InfochimpsGeoGrailsPlugin</type>
+  <resources />
+  <dependencies />
+  <behavior />
+</plugin>
